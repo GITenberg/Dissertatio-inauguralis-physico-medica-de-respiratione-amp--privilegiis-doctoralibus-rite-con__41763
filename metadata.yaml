@@ -1,0 +1,29 @@
+_repo: Dissertatio-inauguralis-physico-medica-de-respiratione-amp--privilegiis-doctoralibus-rite-con__41763
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bernoulli, Daniel
+    alias: Bernulli, Daniil
+    birthdate: 1700
+    deathdate: 1782
+    gutenberg_agent_id: '41345'
+    url: http://www.gutenberg.org/2009/agents/41345
+description: ''
+gutenberg_issued: '2013-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41763'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Respiration'
+- !lcc 'QP'
+title: "Dissertatio inauguralis physico-medica de respiratione\r\nquam consensu &\
+  \ auctoritate gratiosissimi medicorum ordinis in universitate patria pro summis\
+  \ in arte medica honoribus & privilegiis doctoralibus rite consequendis...."
+url: http://www.gutenberg.org/ebooks/41763
