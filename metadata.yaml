@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41345'
     url: http://www.gutenberg.org/2009/agents/41345
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41763#Dissertatio-inauguralis-physico-medica-de-respiratione-amp--privilegiis-doctoralibus-rite-con_
 gutenberg_issued: '2013-01-03'
 gutenberg_type: Text
 identifiers:
